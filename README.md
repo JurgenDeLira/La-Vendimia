@@ -1,1 +1,1 @@
-- 🎨 Presentación en Figma: ([https://www.figma.com/file/XXXXXXXX/tu-proyecto](https://www.figma.com/proto/weJFKAB8pcpp8wrIkKfe5x/La-Vendimia?node-id=12-3359&p=f&t=a114tVPFbfmPDilq-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)) 
+- 🎨 Presentación en Figma: ([https://www.figma.com/file/La-Vendimia](https://www.figma.com/proto/weJFKAB8pcpp8wrIkKfe5x/La-Vendimia?node-id=12-3359&p=f&t=a114tVPFbfmPDilq-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)) 
